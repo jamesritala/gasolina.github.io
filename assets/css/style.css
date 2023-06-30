@@ -158,14 +158,14 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: rgb(5, 5, 5);
+  background: rgb(0, 0, 0);
   transition: all 0.5s;
   z-index: 997;
   height: 70px;
 }
 
 #header.fixed-top {
-  background: #191919;
+  background: #000000;
 }
 
 #header .logo {
@@ -183,7 +183,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 40px;
+  max-height: 50px;
 }
 
 .scrolled-offset {
