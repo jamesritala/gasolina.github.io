@@ -115,7 +115,7 @@ h6 {
 # Top Bar
 --------------------------------------------------------------*/
 #topbar {
-  background: #191919;
+  background: #000000;
   font-size: 15px;
   height: 40px;
   padding: 0;
@@ -158,7 +158,7 @@ h6 {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: rgba(25, 25, 25, 0.95);
+  background: rgb(5, 5, 5);
   transition: all 0.5s;
   z-index: 997;
   height: 70px;
